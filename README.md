@@ -1,6 +1,7 @@
 # OBSS-Codemaster-2024
-Codemaster is an inter-university coding competition held by OBSS that took place March 2024. It included questions on algorithms and sector-oriented tasks.
 Programming language: Python
+Codemaster is an inter-university coding competition held by OBSS that took place March 2024. It included questions on algorithms and sector-oriented tasks.
+
 
 # Question 1: WebSocket Client Application
 - Develop a client application that communicates with a server using WebSocket.
