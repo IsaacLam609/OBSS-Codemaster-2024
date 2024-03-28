@@ -1,7 +1,7 @@
 # Python Coding Competition
 ### Technology: Python, WebSocket
 
-Codemaster is an inter-university coding competition held by OBSS that took place March 2024. It included questions on algorithms and sector-oriented tasks.
+An inter-university coding competition that took place March 2024. It included questions on algorithms and sector-oriented tasks.
 
 
 ## Question 1: WebSocket Client Application
